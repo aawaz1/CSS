@@ -41,7 +41,7 @@ function App() {
           <div className='name'><h1>
              COSINESS
             </h1></div>
-            <div className='card-container'><img style={{width: "300px", height: "200px"}} src='https://m.media-amazon.com/images/I/612sEDQYP9L._SL1200_.jpg'/></div>
+            <div className='card-container'><img style={{width: "300px", height: "250px"}} src='https://m.media-amazon.com/images/I/612sEDQYP9L._SL1200_.jpg'/></div>
             <div className='adding'><span>+</span> <span>1</span><span></span>-</div>
             <div className='cart'>Add To Cart</div>
           </div>
@@ -49,7 +49,7 @@ function App() {
             <div className='name'><h1>
               INTENSITY
             </h1></div>
-            <div className='card-container'><img style={{width: "300px", height: "200px"}} src='https://m.media-amazon.com/images/I/612sEDQYP9L._SL1200_.jpg'/></div>
+            <div className='card-container'><img style={{width: "300px", height: "250px"}} src='https://m.media-amazon.com/images/I/612sEDQYP9L._SL1200_.jpg'/></div>
             <div className='adding'><span>+</span> <span>1</span><span></span>-</div>
             <div className='cart'>Add To Cart</div>
           </div>
@@ -57,7 +57,7 @@ function App() {
             <div className='name'><h1>
               PASSION
             </h1></div>
-            <div className='card-container'><img style={{width: "300px", height: "200px"}} src='https://m.media-amazon.com/images/I/612sEDQYP9L._SL1200_.jpg'/></div>
+            <div className='card-container'><img style={{width: "300px", height: "250px"}} src='https://m.media-amazon.com/images/I/612sEDQYP9L._SL1200_.jpg'/></div>
             <div className='adding'><span>+</span> <span>1</span><span></span>-</div>
             <div className='cart'>Add To Cart</div>
           </div>
